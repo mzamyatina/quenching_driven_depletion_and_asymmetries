@@ -1,6 +1,7 @@
 Code for reproducing results from Zamyatina et al. (2024)
 
 Tables and Figures
+|:------------|:-----|
 | Item | Description | Code |
 | Figure A1 | Conservation diagnostics | check_conservation.ipynb |
 
