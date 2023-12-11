@@ -4,6 +4,7 @@ Tables and Figures
 | Item | Description | Code |
 |:-----|:------------|:-----|
 | Figure A1 | Conservation diagnostics | check_conservation.ipynb |
+| Figure A2 | Steady-state diagnostics | check_steady_state.ipynb |
 
 Utilities
 | Description | Code |
