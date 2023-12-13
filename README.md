@@ -3,6 +3,7 @@ Code for reproducing results from Zamyatina et al. (2024)
 Tables and Figures
 | Item | Description | Code |
 |:-----|:------------|:-----|
+| Figure 1,2 | Latitude-longitude cross sections | plt_latlon_var_stream_at_plevs.ipynb |
 | Figure A1 | Conservation diagnostics | check_conservation.ipynb |
 | Figure A2 | Steady-state diagnostics | check_steady_state.ipynb |
 
