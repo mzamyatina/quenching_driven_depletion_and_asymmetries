@@ -10,6 +10,7 @@ Tables and Figures
 | Figure 7 | Comparison between the observed and simulated full limb transmission spectra | plt_transpec_obs_vs_um.ipynb |
 | Figure A1 | Conservation diagnostics | check_conservation.ipynb |
 | Figure A2 | Steady-state diagnostics | check_steady_state.ipynb |
+| Figure A3 | Zonal-mean zonal wind speeds | plt_znl_mean_pres_u_vary_mdh.ipynb |
 | Figure A4,A10-A15 | Vertical profiles at limbs | plt_vp_pres_var_at_limbs.ipynb |
 
 Utilities
