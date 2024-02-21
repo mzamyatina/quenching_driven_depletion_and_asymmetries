@@ -12,6 +12,7 @@ Tables and Figures
 | Figure A2 | Steady-state diagnostics | check_steady_state.ipynb |
 | Figure A3 | Zonal-mean zonal wind speeds | plt_znl_mean_pres_u_vary_mdh.ipynb |
 | Figure A4,A10-A15 | Vertical profiles at limbs | plt_vp_pres_var_at_limbs.ipynb |
+| Figure A16 | Contributions of individual opacity sources to the full, morning and evening limb transmission spectra | plt_transpec_combores_contribs.ipynb |
 
 Utilities
 | Description | Code |
