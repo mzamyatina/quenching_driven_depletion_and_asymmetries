@@ -10,3 +10,4 @@ Code order
 9. plt_transpec_obs_vs_um.ipynb
 10. plt_znl_mean_pres_u_vary_mdh.ipynb
 11. plt_transpec_combores_contribs.ipynb
+12. save_climate_variables.ipynb
