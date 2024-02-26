@@ -11,3 +11,4 @@ Code order
 10. plt_znl_mean_pres_u_vary_mdh.ipynb
 11. plt_transpec_combores_contribs.ipynb
 12. save_climate_variables.ipynb
+13. zip_input_params_and_transpec.ipynb

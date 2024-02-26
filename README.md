@@ -21,3 +21,4 @@ Utilities
 | Master paths | util_mypaths.py |
 | Code order | util_order.md |
 | Dataset (climate variables) | save_climate_variables.ipynb |
+| Dataset (input parameters and transmission spectra) | zip_input_params_and_transpec.ipynb |
