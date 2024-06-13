@@ -12,3 +12,5 @@ Code order
 11. plt_transpec_combores_contribs.ipynb
 12. save_climate_variables.ipynb
 13. zip_input_params_and_transpec.ipynb
+
+Item 7 depends on save_transpec_lowres.ipynb, 
